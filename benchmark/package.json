@@ -5,7 +5,7 @@
   "main": "perf.js",
   "dependencies": {
     "async": "^1.5.0",
-    "babel": "^5.8.29",
+    "babel": "^6.0.0",
     "davy": "^1.0.1",
     "deferred": "^0.7.3",
     "kew": "^0.7.0",
